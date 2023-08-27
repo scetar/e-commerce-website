@@ -1,0 +1,22 @@
+
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: auto;
+}
+
+select{
+    border:1px solid #ff523b;
+    padding: 5px;
+}
+select:focus{
+    outline: none;
+}
+.checked{
+    color:gold;
+}
+h2{
+    color: chocolate;
+}
